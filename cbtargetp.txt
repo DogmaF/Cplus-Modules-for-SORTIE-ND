@@ -1,0 +1,11 @@
+6
+
+0.00
+0.04
+0.18
+0.37
+0.48
+0.62
+
+************
+values taken from Arii et al. 2007. Ecological Modelling vol 211, page 256

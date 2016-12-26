@@ -1,0 +1,27 @@
+default
+1
+singletree_propagation
+cbtreedata.txt
+cbsizeclasses.txt
+cbtargetp.txt
+cbnborp.txt
+cbplotcorners.txt
+cbtargets.txt
+0
+0.0
+
+
+Definitions:
+Line No.	Variable
+1		default = use default parameter file name (this file)
+2		Plot identity number
+3		type of harvest to perform
+4		name of tree data file
+5		name of size class data file
+6		name of target cut probabilities file
+7		name of neighbor cut probabilities file
+8		name of plot corners file (containing min X, max X, min Y, max Y)
+9		number of exception species (species that should not be cut)
+10		percent of largest trees not harvested (given as a value between 0 and 1)
+
+
