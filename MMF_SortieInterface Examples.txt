@@ -1,0 +1,113 @@
+MMF_SortieInterface Examples.txt
+Mike Fuller July 11, 2008
+University of Toronto, Faculty of Forestry
+
+This file contains examples of the external files needed by MMF_SortieInterface_main for extracting simulation parameters and input data during a harvest simulation.
+-------------------------------------------------------------------------------------------------------------------------------
+
+cbparameters.txt
+Lists type of harvest and names of data and paramter files.
+EXAMPLE:
+
+default
+1
+basalarea
+KP_harvest.dat.txt
+cbsizeclasses.txt
+cbtargetp.txt
+cbnborp.txt
+0
+5
+
+
+Definitions:
+Line No.	Variable
+1		default = use default parameter file name (this file)
+2		Plot identity number
+3		type of harvest to perform
+4		name of tree data file
+5		name of size class data file
+6		name of target cut probabilities file
+7		name of neighbor cut probabilities file
+8		number of exception species (species that should not be cut)
+9		percent of largest trees not harvested
+
+-------------------------------------------------------------------------------------------------------------------------------
+cbBAtargets.txt	
+Lists targets for basal area to retain.
+EXAMPLE:
+
+5
+
+0.33
+0.33
+0.33
+0.33
+0.33
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+cbPHtargets.txt	
+Lists targets for count per hectare to retain.
+EXAMPLE:
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+cbDISTtargets.txt
+treedatafile
+Contains data for individual trees (long list of trees.
+EXAMPLE:
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+sizeclassfile
+Lists lower stem size limits for each size class.
+EXAMPLE:
+
+alternative
+
+5
+
+10
+15
+20
+25
+30
+
+-------------------------------------------------------------------------------------------------------------------------------
+probcutfile
+Lists cut probabilities for target trees in each stem size class.
+EXAMPLE:
+
+5
+
+0.50
+0.50
+0.50
+0.50
+0.50
+
+-------------------------------------------------------------------------------------------------------------------------------
+probnborfile
+Lists cut probabilities for neighbor trees in each stem size class.
+EXAMPLE:
+
+5
+
+0.50
+0.50
+0.50
+0.50
+0.50
+
+-------------------------------------------------------------------------------------------------------------------------------
+treedatafile
+Lists the trees currently found on the SORTIE forest plot. The first line contains
+two integers representing the current time step and total number of time steps.
+The remaining lines contain data for each tree, broken into six tabbed columns for: 
+X-coordinate (float), Y-coordinate(float), species(integer), life-history type (integer), stem diameter (float, cm), and height (integer, meters). The trees in the list are those to which the Harvest Interface behavior is applied. Trees that are cut disappear completely from the forest plot and do not become snags. 
+EXAMPLE
+
+1	10
+84.49		55.22		1	3	14.2	20
+86.24		51.48		1	3	8.1	11
