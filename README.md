@@ -5,4 +5,4 @@ This repository contains source code and supporting files which implement select
 
 Breifly, the classes implement single-tree and group cutting silviculture, and permit the user to set rough basal-area targets for different stem size classes (e.g. "cut 30% of size class A", etc.). The classes generally try to fulfill the goals described in Arii et al. 2008.  The present work was performed at the Faculty of Forestry, University of Toronto (2007-2008). 
 
-Arii, K., J.P. Caspersen, T.A. Jones, and S.C. Thomas. 2008. A selection harvesting algorithm for use in spatially explicit individual-based forest simulation models. Ecological Modelling 211: 251-266.
+Arii, K., J.P. Caspersen, T.A. Jones, and S.C. Thomas. 2008. A selection harvesting algorithm for use in spatially explicit individual-based forest simulation models. Ecological Modelling **211**: 251-266.
