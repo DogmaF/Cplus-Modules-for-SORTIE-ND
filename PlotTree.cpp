@@ -11,7 +11,7 @@
 #ifndef PLOTTREE_CPP
 #define PLOTTREE_CPP
 
-#include "/Users/KarmaYeshe/Documents/ACADEMIC_PROJECTS/UTOR_Manuscripts_Projects/SORTIE_RELATED_PROJECTS/FULLER_CPP_PROGRAMS/DEVELOPMENT/General_Use_Classes/Classes_Datum/PlotTree.hpp"
+#include "PlotTree.hpp"
 
 #include <iostream>
 #include <string>
