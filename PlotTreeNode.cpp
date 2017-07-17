@@ -4,7 +4,7 @@
 #ifndef PLOTTREENODE_H
 #define PLOTTREENODE_H
 
-#include "/Users/KarmaYeshe/Documents/ACADEMIC_PROJECTS/UTOR_Manuscripts_Projects/SORTIE_RELATED_PROJECTS/FULLER_CPP_PROGRAMS/DEVELOPMENT/General_Use_Classes/Classes_Datum/PlotTree.cpp"
+#include "PlotTree.cpp"
 
 namespace MMFdata
 {
