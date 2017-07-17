@@ -12,7 +12,7 @@
 
 #ifndef DATUMPOINT_H
 #define DATUMPOINT_H
-#include "/Users/KarmaYeshe/Documents/ACADEMIC_PROJECTS/UTOR_Manuscripts_Projects/SORTIE_RELATED_PROJECTS/FULLER_CPP_PROGRAMS/DEVELOPMENT/General_Use_Classes/Classes_Datum/Datum.h"
+#include "Datum.h"
 
 namespace MMFdata
 {
