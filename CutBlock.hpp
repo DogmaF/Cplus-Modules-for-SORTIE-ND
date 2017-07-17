@@ -77,8 +77,8 @@
 #include <iostream>
 #include <fstream>
 #include <vector>
-#include "/Users/mmfuller/Documents/ACADEMIC_PROJECTS/UTOR_Manuscripts_Projects/SORTIE_RELATED_PROJECTS/FULLER_CPP_PROGRAMS/DEVELOPMENT/General_Use_Classes/Classes_Datum/PlotTree.hpp"
-#include "/Users/mmfuller/Documents/ACADEMIC_PROJECTS/UTOR_Manuscripts_Projects/SORTIE_RELATED_PROJECTS/FULLER_CPP_PROGRAMS/DEVELOPMENT/Harvest_Classes/src/plottreenode.cpp"
+#include "PlotTree.hpp"
+#include "plottreenode.cpp"
 
 namespace MMFdata
 {
