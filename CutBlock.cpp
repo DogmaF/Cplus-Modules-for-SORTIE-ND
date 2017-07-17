@@ -19,8 +19,8 @@
 #include <cmath>
 #include <ctime>
 #include <iterator>
-#include "/Users/mmfuller/Documents/ACADEMIC_PROJECTS/UTOR_Manuscripts_Projects/SORTIE_RELATED_PROJECTS/FULLER_CPP_PROGRAMS/DEVELOPMENT/Harvest_Classes/src/CutBlock.hpp"
-#include "/Users/mmfuller/Documents/ACADEMIC_PROJECTS/UTOR_Manuscripts_Projects/SORTIE_RELATED_PROJECTS/FULLER_CPP_PROGRAMS/DEVELOPMENT/General_Use_Classes/Classes_Datum/PlotTree.cpp"
+#include "CutBlock.hpp"
+#include "PlotTree.cpp"
 
 namespace MMFdata
 {
