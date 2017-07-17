@@ -58,12 +58,12 @@
 #include <iomanip>
 #include <string>
 #include <vector>
-#include "/Users/mmfuller/Documents/ACADEMIC_PROJECTS/UTOR_Manuscripts_Projects/SORTIE_RELATED_PROJECTS/FULLER_CPP_PROGRAMS/DEVELOPMENT/Harvest_Classes/src/CutBlock.cpp"
+#include "CutBlock.cpp"
 
 using namespace std;
 using namespace MMFdata;
 
-const string WORKINGDIR = "/Users/mmfuller/Documents/ACADEMIC_PROJECTS/UTOR_Manuscripts_Projects/SORTIE_RELATED_PROJECTS/FULLER_CPP_PROGRAMS/DEVELOPMENT/Harvest_Classes/";
+const string WORKINGDIR = "DEVELOPMENT/Harvest_Classes/";
 
 int main()
 {
