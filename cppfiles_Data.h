@@ -9,10 +9,10 @@
 //#include "DataSamplePointsPolar.h"
 //#include "DataSamplePointsPolarTree.h"
 
-#include "/Users/KarmaYeshe/Documents/ACADEMIC_PROJECTS/UTOR_Manuscripts_Projects/SORTIE_RELATED_PROJECTS/FULLER_CPP_PROGRAMS/DEVELOPMENT/General_Use_Classes/Classes_Datum/Datum.cpp"
-#include "/Users/KarmaYeshe/Documents/ACADEMIC_PROJECTS/UTOR_Manuscripts_Projects/SORTIE_RELATED_PROJECTS/FULLER_CPP_PROGRAMS/DEVELOPMENT/General_Use_Classes/Classes_Datum/DatumPoint.cpp"
-#include "/Users/KarmaYeshe/Documents/ACADEMIC_PROJECTS/UTOR_Manuscripts_Projects/SORTIE_RELATED_PROJECTS/FULLER_CPP_PROGRAMS/DEVELOPMENT/General_Use_Classes/Classes_Datum/DatumPointPolar.cpp"
-#include "/Users/KarmaYeshe/Documents/ACADEMIC_PROJECTS/UTOR_Manuscripts_Projects/SORTIE_RELATED_PROJECTS/FULLER_CPP_PROGRAMS/DEVELOPMENT/General_Use_Classes/Classes_Datum/DatumPointPolarTree.cpp"
-#include "/Users/KarmaYeshe/Documents/ACADEMIC_PROJECTS/UTOR_Manuscripts_Projects/SORTIE_RELATED_PROJECTS/FULLER_CPP_PROGRAMS/DEVELOPMENT/General_Use_Classes/Classes_Data/DataSamplePointsPolar.cpp"
+#include "Datum.cpp"
+#include "DatumPoint.cpp"
+#include "DatumPointPolar.cpp"
+#include "DatumPointPolarTree.cpp"
+#include "DataSamplePointsPolar.cpp"
 
 #endif
