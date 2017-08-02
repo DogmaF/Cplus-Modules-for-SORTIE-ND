@@ -1,4 +1,4 @@
-This repository will contain source code and supporting files, written in C++, which implement selection harvest methods designed to interface with the [Sortie-ND](http://www.sortie-nd.org) forest modeling platform.
+This repository contains source code and supporting files, written in C++, which implement selection harvest methods designed to interface with the Open Source [Sortie-ND](http://www.sortie-nd.org) forest modeling platform.
 
 Breifly, the classes implement single-tree and group cutting silviculture, and permit the user to set rough basal-area targets for different stem size classes (e.g. "cut 30% of size class A", etc.). The classes generally try to fulfill the goals described in Arii et al. 2008.  The present work was performed at the Faculty of Forestry, University of Toronto (2007-2008). 
 
