@@ -10,3 +10,5 @@ Please contact the repo owner for information.
 For information about the owner, see the file MFuller_CV.8.17.pdf
 
 Arii, K., J.P. Caspersen, T.A. Jones, and S.C. Thomas. 2008. A selection harvesting algorithm for use in spatially explicit individual-based forest simulation models. Ecological Modelling **211**: 251-266.
+
+**Copyright 2008 M Fuller.** I certify that my code is original, and produced by me (not copied from another repository).
